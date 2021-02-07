@@ -11,5 +11,8 @@ Prosli jsme 2 lekce - uvod "hello world" a druhou lekci promenne a fce input().
 text  
 - seznam  
 - seznam  
-1 cisl seznam  
-1 cisl seznam  
+
+1. cisl seznam  
+1. cisl seznam  
+
+[Python pro zacatecniky](https://www.python.org/about/gettingstarted/)
