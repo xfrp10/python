@@ -9,7 +9,7 @@ Prosli jsme 2 lekce - uvod "hello world" a druhou lekci promenne a fce input().
 ### nadpis 3
 #### nadpis 4
 text  
-- seznam
-- seznam
-1 cisl seznam
-1 cisl seznam
+- seznam  
+- seznam  
+1 cisl seznam  
+1 cisl seznam  
